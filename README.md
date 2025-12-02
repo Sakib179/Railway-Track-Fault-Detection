@@ -102,3 +102,28 @@ Outperforms all prior works including YOLOv11 and ECARRNet.
 ---
 
 ### Repository Structure
+├── CSE424_paper.pdf                                    # Full research paper (22 pages)
+├── 24341218_Sakib_Rayhan_Yeasin_Sec2_task3_code.ipynb  # Complete EDA notebook (Section 3 of paper)
+├── README.md                                           # This file
+└── LICENSE                                             # MIT License
+
+
+---
+
+### Requirements
+```txt
+Python >= 3.10
+numpy
+pandas
+matplotlib
+Pillow
+tensorflow >= 2.10 (for full training)
+scikit-learn
+jupyter
+
+```
+
+---
+
+
+
