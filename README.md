@@ -11,8 +11,6 @@
 
 ### Author
 **Sakib Rayhan Yeasin**  
-BRAC University, Dhaka, Bangladesh  
-Email: [sakib.rayhan.yeasin@g.bracu.ac.bd](mailto:sakib.rayhan.yeasin@g.bracu.ac.bd)  
 ORCID: [0009-0007-1284-0866](https://orcid.org/0009-0007-1284-0866)  
 
 ---
