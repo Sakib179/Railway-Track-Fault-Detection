@@ -102,7 +102,4 @@ Outperforms all prior works including YOLOv11 and ECARRNet.
 
 ```
 
----
-
-
 
