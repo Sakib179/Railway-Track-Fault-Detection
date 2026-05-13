@@ -14,7 +14,6 @@
 BRAC University, Dhaka, Bangladesh  
 Email: [sakib.rayhan.yeasin@g.bracu.ac.bd](mailto:sakib.rayhan.yeasin@g.bracu.ac.bd)  
 ORCID: [0009-0007-1284-0866](https://orcid.org/0009-0007-1284-0866)  
-Website: [https://www.bracu.ac.bd](https://www.bracu.ac.bd)
 
 ---
 
@@ -100,17 +99,6 @@ Merged from 3 high-quality Kaggle datasets:
 Outperforms all prior works including YOLOv11 and ECARRNet.
 
 ---
-
-### Requirements
-```txt
-Python >= 3.10
-numpy
-pandas
-matplotlib
-Pillow
-tensorflow >= 2.10 (for full training)
-scikit-learn
-jupyter
 
 ```
 
